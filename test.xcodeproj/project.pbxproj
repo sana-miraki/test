@@ -16,6 +16,7 @@
 		B944D199284F886C00DB48C5 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B944D198284F886C00DB48C5 /* testTests.swift */; };
 		B944D1A3284F886C00DB48C5 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B944D1A2284F886C00DB48C5 /* testUITests.swift */; };
 		B944D1A5284F886C00DB48C5 /* testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B944D1A4284F886C00DB48C5 /* testUITestsLaunchTests.swift */; };
+		B944D1B2284F88D800DB48C5 /* asd.swift in Sources */ = {isa = PBXBuildFile; fileRef = B944D1B1284F88D800DB48C5 /* asd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B944D19E284F886C00DB48C5 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B944D1A2284F886C00DB48C5 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		B944D1A4284F886C00DB48C5 /* testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B944D1B1284F88D800DB48C5 /* asd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asd.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B944D181284F886B00DB48C5 /* AppDelegate.swift */,
 				B944D183284F886B00DB48C5 /* SceneDelegate.swift */,
 				B944D185284F886B00DB48C5 /* ViewController.swift */,
+				B944D1B1284F88D800DB48C5 /* asd.swift */,
 				B944D187284F886B00DB48C5 /* Main.storyboard */,
 				B944D18A284F886C00DB48C5 /* Assets.xcassets */,
 				B944D18C284F886C00DB48C5 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B944D1B2284F88D800DB48C5 /* asd.swift in Sources */,
 				B944D186284F886B00DB48C5 /* ViewController.swift in Sources */,
 				B944D182284F886B00DB48C5 /* AppDelegate.swift in Sources */,
 				B944D184284F886B00DB48C5 /* SceneDelegate.swift in Sources */,
